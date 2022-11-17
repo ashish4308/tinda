@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tinda/static/css/main.073c9b0a.css",
-    "main.js": "/tinda/static/js/main.54695663.js",
+    "main.js": "/tinda/static/js/main.4672227c.js",
     "static/js/787.1c940241.chunk.js": "/tinda/static/js/787.1c940241.chunk.js",
     "static/media/logo.svg": "/tinda/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/tinda/index.html",
     "main.073c9b0a.css.map": "/tinda/static/css/main.073c9b0a.css.map",
-    "main.54695663.js.map": "/tinda/static/js/main.54695663.js.map",
+    "main.4672227c.js.map": "/tinda/static/js/main.4672227c.js.map",
     "787.1c940241.chunk.js.map": "/tinda/static/js/787.1c940241.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.54695663.js"
+    "static/js/main.4672227c.js"
   ]
 }
